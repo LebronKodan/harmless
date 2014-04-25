@@ -4,3 +4,6 @@
 harmless
 harmless.log
 src/BOOK.DAT
+.project
+.pydevproject
+.settings/org.eclipse.core.resources.prefs
